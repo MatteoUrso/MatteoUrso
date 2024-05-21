@@ -2,6 +2,7 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/ursomatteo_/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matteo-urso-26026a233/)
 
+- [![BR](https://matteo-urso.vercel.app/logo/favicon-16x16.png)](https://matteo-urso.vercel.app/) 
 Feel free to checkout my [portfolio](https://matteo-urso.vercel.app/) website!
 - 🏢 Software Engineer (Front-End) [@Esaedro](https://www.esaedro.com/), in Parma PR
 - 🧰 I build with: `DevExtreme` `ApexCharts.js`, `JavaScript`, `Next.js`,  `MUI`, `Tailwind` ...
