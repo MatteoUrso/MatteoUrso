@@ -5,7 +5,7 @@
 - [![BR](https://matteo-urso.vercel.app/logo/favicon-16x16.png)](https://matteo-urso.vercel.app/) 
 Feel free to checkout my [portfolio](https://matteo-urso.vercel.app/) website!
 - 🏢 Software Engineer (Front-End) [@Esaedro](https://www.esaedro.com/), in Parma PR
-- 🧰 I build with: `DevExtreme` `ApexCharts.js`, `JavaScript`, `Next.js`,  `MUI`, `Tailwind` ...
+- 🧰 I build with: `JavaScript`, `TypeScript`, `React Native`, `Next.js`, `Tailwind` ...
 - ⚡ I enjoy reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: brian@b-r.io
 
