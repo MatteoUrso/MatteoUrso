@@ -7,6 +7,6 @@ Feel free to checkout my [portfolio](https://matteo-urso.vercel.app/) website!
 - 🏢 Software Engineer (Front-End) [@Esaedro](https://www.esaedro.com/), in Parma PR
 - 🧰 I build with: `JavaScript`, `TypeScript`, `React Native`, `Next.js`, `Tailwind` ...
 - ⚡ I enjoy reading, playing soccer, and lifting weights :)
-- 📫 Reach out to me: brian@b-r.io
+- 📫 Reach out to me: matteourso100@gmail.com
 
 
