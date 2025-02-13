@@ -4,10 +4,10 @@ My name is Matteo Urso and I'm a Front-end Developer, from Cremona (🇮🇹).
 
 ## About me
 
-✨ Creating bugs since 2021
-📚 I'm currently learning english and docker 🐳
-🎯 Goals: launch a startup 🚀
-🎲 And i play ⚽ soccer and 📖 read books
+- ✨ Creating bugs since 2021
+- 📚 I'm currently learning english and docker 🐳
+- 🎯 Goals: launch a startup 🚀
+- 🎲 And i play ⚽ soccer and 📖 read books
 
 ## I code with
 
